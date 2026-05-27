@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Prototype Builder",
+  "description": "An AI-powered, interactive screen prototyping and simulation tool. Instantly generate screen flow wireframes from text with server-side Gemini, build and wire layouts, place user comment annotations, run mobile interactive testing sessions, and analyze click statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
